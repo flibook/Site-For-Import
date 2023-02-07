@@ -1,6 +1,8 @@
-# Byte-compiled / optimized / DLL files
+# Temp
 tmp/
 _old
 _backup
+*_old
+*_backup
 Thumbs.db
 .DS_Store
